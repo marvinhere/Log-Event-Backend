@@ -1,7 +1,6 @@
 # Log-Event-Backend
 Simple log event to track user's events
 
-<br>
 <h3>Use routes</h3>
 <ul>
 <li>GET localhost:80001/events to see all the events</li>
