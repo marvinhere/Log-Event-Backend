@@ -3,9 +3,9 @@ Simple log event to track user's events
 
 <h3>Use routes</h3>
 <ul>
-<li>GET localhost:80001/events to see all the events</li>
-<li>GET localhost:80001/events/:event_id to see all the events by id</li>
-<li>POST localhost:80001/events/create to save a new event</li>
+<li>GET localhost:8001/events to see all the events</li>
+<li>GET localhost:8001/events/:event_id to see all the events by id</li>
+<li>POST localhost:8001/events/create to save a new event</li>
 </ul>
 <br>
 <h3>Save event</h3>
